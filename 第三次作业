@@ -1,6 +1,7 @@
 `
 
 #include<stdio.h>
+#include<conio.h>
 #include<graphics.h>
 
 void b_spline(int color, float p[4][2])
